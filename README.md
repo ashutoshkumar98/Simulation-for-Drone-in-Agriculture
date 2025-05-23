@@ -77,8 +77,8 @@ agricultural-drone-airsim/
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/agricultural-drone-airsim.git
-   cd agricultural-drone-airsim
+   git clone https://github.com/ashutoshkumar98/Simulation-for-Drone-in-Agriculture.git
+   cd Simulation-for-Drone-in-Agriculture.git
    ```
 
 2. **Install Python dependencies**:
@@ -89,8 +89,8 @@ agricultural-drone-airsim/
 3. **Configure AirSim settings**:
    ```bash
    # Copy the configuration file to your AirSim settings directory
-   # Windows: Copy config/airsim_settings.json to ~/Documents/AirSim/settings.json
-   # Linux: Copy config/airsim_settings.json to ~/Documents/AirSim/settings.json
+   # Windows: Copy airsim_settings.json to ~/Documents/AirSim/settings.json
+   # Linux: Copy airsim_settings.json to ~/Documents/AirSim/settings.json
    ```
 
 ### Step 3: Run the Simulation
@@ -99,7 +99,7 @@ agricultural-drone-airsim/
 2. **Press Play** in the UE editor
 3. **Run the drone script**:
    ```bash
-   python src/Drone_Airsim.py
+   python Drone_Airsim.py
    ```
 
 ### Troubleshooting
@@ -145,7 +145,7 @@ This project demonstrates:
 - Integration of modern simulation tools for agricultural research
 - Practical flight algorithms for real-world deployment
 
-For detailed technical analysis, see our [research report](docs/Drone_in_Agriculture_Report_Final.pdf).
+For detailed technical analysis, see our [research report](Drone_in_Agriculture_Report_Final.pdf).
 
 ## 🌱 Agricultural Applications
 
@@ -176,7 +176,7 @@ raw_corners = np.array([
 
 ## 🎥 Demo
 
-![Drone Flight Demo](docs/images/drone_flight_demo.gif)
+[Drone Flight Demo](dronesimulation.mp4)
 
 *Drone executing lawnmower pattern over simulated agricultural field*
 
