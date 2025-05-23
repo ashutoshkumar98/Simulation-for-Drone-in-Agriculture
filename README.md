@@ -24,11 +24,11 @@ This project focuses on developing and simulating an agricultural drone for prec
 agricultural-drone-airsim/
 
 ├── Drone_Airsim.py           # Main drone control script
-└── Drone_in_Agriculture_Report_Final.pdf  # Research report
-└── dronesimulation.mp4                # Simulation video
-└── airsim_settings.json       # AirSim configuration
-└── requirements.txt               # Python dependencies
-└── README.md                      # This file
+├── Drone_in_Agriculture_Report_Final.pdf  # Research report
+├── dronesimulation.mp4                # Simulation video
+├── airsim_settings.json       # AirSim configuration
+├── requirements.txt               # Python dependencies
+├── README.md                      # This file
 ```
 
 ## 🚀 Quick Start
